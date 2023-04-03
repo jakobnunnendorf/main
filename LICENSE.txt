@@ -1,0 +1,46 @@
+Commercial Software License Agreement
+-------------------------------------
+
+Copyright (C) 2023 Jakob Nunnendorf. All rights reserved.
+
+This license agreement (the "Agreement") is made between you (the "Licensee") and Jakob Nunnendorf (the "Licensor"), and governs your use of the jqode_ software home page code (the "Software").
+
+By downloading, installing, or using the Software, you agree to be bound by the terms and conditions of this Agreement. If you do not agree to these terms, do not download, install, or use the Software.
+
+1. Grant of License
+
+Subject to the terms and conditions of this Agreement, Licensor grants Licensee a limited, non-exclusive, non-transferable, non-sublicensable license to use the Software solely for Licensee's internal business purposes.
+
+2. Restrictions
+
+a. Licensee shall not copy, modify, adapt, translate, reverse engineer, decompile, disassemble, or create derivative works based on the Software.
+
+b. Licensee shall not rent, lease, sell, sublicense, distribute, or otherwise transfer the Software to any third party.
+
+c. Licensee shall not remove, alter, or obscure any copyright, trademark, or proprietary rights notices contained in or on the Software.
+
+d. Licensee shall not use the Software for any unlawful purpose or in violation of any applicable laws or regulations.
+
+3. Intellectual Property
+
+All title, ownership, and intellectual property rights in and to the Software, including but not limited to its source code, object code, documentation, and any related materials, are owned by Licensor or its licensors. The Software is protected by copyright and other intellectual property laws and treaties.
+
+4. Termination
+
+This Agreement shall remain in effect until terminated by either party. Licensee may terminate this Agreement at any time by ceasing all use of the Software and deleting all copies of the Software. Licensor may terminate this Agreement if Licensee breaches any of its terms and conditions. Upon termination, Licensee shall immediately cease using the Software and delete all copies of the Software.
+
+5. Disclaimer of Warranty
+
+The Software is provided "AS IS" without warranty of any kind, either express or implied, including but not limited to the implied warranties of merchantability, fitness for a particular purpose, and non-infringement. Licensee assumes the entire risk as to the quality and performance of the Software.
+
+6. Limitation of Liability
+
+In no event shall Licensor be liable for any damages, including but not limited to direct, indirect, incidental, special, consequential, or exemplary damages, arising out of or in connection with the use, performance, or inability to use the Software, even if Licensor has been advised of the possibility of such damages.
+
+7. Governing Law
+
+This Agreement shall be governed by and construed in accordance with the laws of the state of North Rhine-Westphalia, Germany, and the applicable federal laws of Germany, without regard to its conflict of law principles. Any legal action or proceeding arising under this Agreement shall be brought exclusively in the courts located in the state of North Rhine-Westphalia, Germany, and the parties hereby consent to personal jurisdiction and venue therein.
+
+8. Entire Agreement
+
+This Agreement constitutes the entire agreement between the parties concerning the subject matter hereof and supersedes all prior and contemporaneous agreements, understandings, negotiations, and discussions, whether oral or written, between the parties relating to the subject matter hereof.
