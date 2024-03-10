@@ -1,5 +1,4 @@
 import { Metadata } from "next";
-import { ApplicationForm } from "./Form/ApplicationForm";
 import Image from "next/image";
 
 export const metadata = {
