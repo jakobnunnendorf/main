@@ -50,22 +50,23 @@ const securityComponents: {
     {
         title: "Free assessment",
         href: "/",
-        description: "Who are your customers and what moves them?",
+        description: "We conduct a comprehensive scan for vulnerabilites.",
     },
     {
         title: "How we can help you",
         href: "/",
-        description: "Capture attention in less than a second.",
+        description: "The most common threats and how we can protect you.",
     },
     {
         title: "Penetration testing",
         href: "/",
-        description: "Make it a no-brainer to click.",
+        description:
+            "If we can bypass your security, so can others. It's better you know.",
     },
     {
         title: "Threat Prevention",
         href: "/",
-        description: "Shortest distance from click to buy.",
+        description: "Implementing systems to stop attacks before they happen.",
     },
 ];
 const exampleComponents: {
