@@ -21,7 +21,9 @@ export default function RootLayout({
                 <header>
                     <NavBar />
                 </header>
-                <main>{children}</main>
+                <main className="bg-black min-h-screen min-w-screen ">
+                    {children}
+                </main>
             </body>
         </html>
     );

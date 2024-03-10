@@ -17,7 +17,7 @@ export default function Hero() {
                 <h2 className="lg:text-5xl text-2xl text-white mt-4 mb-8">
                     Presenting your company <br /> to the world.
                 </h2>
-                <a href={"mailto:info@jqode.eu"} className=" w-fit">
+                <a href={"/apply"} className=" w-fit">
                     <div className="py-2 px-4 w-fit rounded-lg text-xl text-white border-2 border-white">
                         Start now
                     </div>
